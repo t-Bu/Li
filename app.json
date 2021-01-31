@@ -1,0 +1,14 @@
+{
+    "name": "t-BuLi",
+    "description": "t-BuLi",
+    "keywords": ["t-BuLi"],
+    "env": {
+        "UUID": {
+            "description": "t-BuLi",
+            "value": "<--Please Enter UUID!-->"
+        }
+    },
+    "website": "t-BuLi",
+    "repository": "t-BuLi",
+    "stack": "container"
+}
